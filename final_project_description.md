@@ -53,12 +53,12 @@ The following sections detail the requirements and steps for the final project:
     2.  **MLflow Serving:** Serve the model locally using the `mlflow models serve` command.
 * **Model Inference:**
     * Launch your model API from the previous step.
-    * **Perform Predictions:** Use a REST client (`curl`, a Python script, or `Postman`) to request predictions by passing inputs to your API.
-    * Document/register your results.
+    * **Perform Predictions:** Use a REST client (`curl`, a Python script, `Postman`, etc) to request predictions by passing inputs to your API.
+    * Document/register your results in report. You could use the `reports` folder or even use the `README.md` file.
     * **Expected Result:** Successful generation of prediction values (class, label, or numerical output).
 
 ### E) Delivery:
 * Use the README.md file to documentate/describe your work. You can also put a link to refer your  external documentation.
-  * You could create additional files for documentation.
+  * You could create additional files for documentation in your project.
 * When your work is done in your Git branch you should create a Pull Request (PR) to merge your work into `main` branch.
 * In that way, The final project (python code, reports, docs, datasets, etc) should be in the `main` branch.
