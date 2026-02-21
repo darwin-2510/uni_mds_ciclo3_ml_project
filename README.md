@@ -69,3 +69,6 @@ mlruns/: Directorio con metadatos y artefactos de experimentos de MLflow.
 Dockerfile: Configuración para despliegue en contenedores.
 
 requirements_dev.txt: Lista de librerías necesarias (Pandas, Scikit-learn, MLflow, Flask).
+Remarks: feel free to modify this file for documentation 
+TODO:
+...
