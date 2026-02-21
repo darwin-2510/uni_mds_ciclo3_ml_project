@@ -7,3 +7,4 @@ pytest
 flask
 joblib
 mlflow
+seaborn
