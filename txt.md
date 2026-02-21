@@ -18,12 +18,14 @@ Cargar archivo dataset Test
 
 # Modelos
 Crear archivos>
+    eda_analysis.py
     data_preparation.py
     train.py
     serving.py
 
 
 # PowerShell
+python notebooks/eda_analysis.py
 python src/data_preparation.py
 python src/train.py
 
