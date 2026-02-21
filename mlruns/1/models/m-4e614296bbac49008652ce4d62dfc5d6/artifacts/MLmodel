@@ -1,0 +1,23 @@
+artifact_path: file:C:/Users/zaval/Documents/-- ARCHIVOS/Git_clone/MLopsFinalProject/uni_mds_ciclo3_ml_project/mlruns/1/models/m-4e614296bbac49008652ce4d62dfc5d6/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.14.3
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.8.0
+    skops_trusted_types: null
+mlflow_version: 3.9.0
+model_id: m-4e614296bbac49008652ce4d62dfc5d6
+model_size_bytes: 57442445
+model_uuid: m-4e614296bbac49008652ce4d62dfc5d6
+prompts: null
+run_id: 67c502042bf84d45a667ca972ce9148c
+utc_time_created: '2026-02-21 03:15:50.095512'
