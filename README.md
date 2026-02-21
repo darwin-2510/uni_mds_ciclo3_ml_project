@@ -35,6 +35,11 @@ Siguiendo el programa del curso, se completaron las siguientes fases:
         pip install -r requirements_dev.txt
         
         #Pipeline de Ejecución
+        EDA:eda_analysis.py
+        correlacion_variables.png
+        distribucion_riesgo.png
+        ingresos_vs_monto.png
+
         Preparación y Entrenamiento:
         python src/data_preparation.py
         python src/train.py
